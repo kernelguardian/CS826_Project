@@ -2,3 +2,4 @@ kaggle.json
 annotations/*
 images/*
 stanford-dogs-dataset.zip
+.ipynb_checkpoints/
